@@ -37,7 +37,7 @@ To get a local copy of this project up and running, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/BMW-Showroom.git
+   git clone [https://github.com/username/BMW-Showroom.git](https://github.com/aniketh1/Bayerische-Motors-Hub)
 2. **Navigate to the project directory**:
 
 bash
@@ -96,4 +96,4 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 **License** 📄
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
